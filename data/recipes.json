@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Sanjeev Kapoor",
+    "picture": "https://i.ibb.co/QcWcFv6/sanjeev-kapoor-interview-main.jpg",
+    "dishes": [
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ab1",
+        "name": "Butter Chicken",
+        "picture": "https://i.ibb.co/3YN0H6Z/Butter-Chicken.jpg",
+        "price": "$12.99",
+        "likes": 4500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ac2",
+        "name": "Palak Paneer",
+        "picture": "https://i.ibb.co/grbqS9g/palak-paneer-recipe.jpg",
+        "price": "$10.99",
+        "likes": 3000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ad3",
+        "name": "Chicken Biryani",
+        "picture": "https://i.ibb.co/wyxNjLj/Chicken-Biryani.jpg",
+        "price": "$14.99",
+        "likes": 6000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ae4",
+        "name": "Chaat Masala",
+        "picture": "https://i.ibb.co/S7Ys1Kf/Chaat-Masala.jpg",
+        "price": "$4.99",
+        "likes": 1500
+      }
+    ]
+  },
+  {
+    "name": "Vikas Khanna",
+    "picture": "https://i.ibb.co/2Y82VN4/Vikas-Khanna-as-seen-in-an-Instagram-Post-in-May-2022.jpg",
+    "dishes": [
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1af5",
+        "name": "Aloo Gobi",
+        "picture": "https://i.ibb.co/BVhjghC/AlooGobi.jpg",
+        "price": "$9.99",
+        "likes": 3500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ag6",
+        "name": "Chhole Bhature",
+        "picture": "https://i.ibb.co/VMD986c/Chole-Bhature.jpg",
+        "price": "$12.99",
+        "likes": 4000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ah7",
+        "name": "Dal Makhani",
+        "picture": "https://i.ibb.co/26pn88V/Dal-Makhani.jpg",
+        "price": "$11.99",
+        "likes": 5000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1ai8",
+        "name": "Gulab Jamun",
+        "picture": "https://i.ibb.co/WfqZrGz/Gulab-Jamun.jpg",
+        "price": "$13.99",
+        "likes": 2500
+      }
+    ]
+  },
+  {
+    "name": "Tarla Dalal",
+    "picture": "https://i.ibb.co/JRCt6x6/Tarla-Dalal-on-the-show-Cook-It-Up-With-Tarla-Dalal.jpg",
+    "dishes": [
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1aj9",
+        "name": "Aloo Gobi",
+        "picture": "https://i.ibb.co/BVhjghC/AlooGobi.jpg",
+        "price": "$10.99",
+        "likes": 3000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a10",
+        "name": "Chicken Tikka Masala",
+        "picture": "https://i.ibb.co/5YXq3Mh/Chicken-Tikka-Masala.jpg",
+        "price": "$9.99",
+        "likes": 2500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a11",
+        "name": "Gajar Ka Halwa",
+        "picture": "https://i.ibb.co/2kcqqfR/Gajar-Ka-Halwa.jpg",
+        "price": "$12.99",
+        "likes": 4000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a12",
+        "name": "Chole Bhature",
+        "picture": "https://i.ibb.co/VMD986c/Chole-Bhature.jpg",
+        "price": "$11.99",
+        "likes": 3500
+      }
+    ]
+  },
+
+  {
+    "name": "Madhur Jaffrey",
+    "picture": "https://i.ibb.co/WxD3Vd8/x1080.jpg",
+    "dishes": [
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a13",
+        "name": "Chicken Tikka Masala",
+        "picture": "https://i.ibb.co/5YXq3Mh/Chicken-Tikka-Masala.jpg",
+        "price": "$15.99",
+        "likes": 5000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a14",
+        "name": "Dum Biryani",
+        "picture": "https://i.ibb.co/7C1MS2K/Dum-Biryani.jpg",
+        "price": "$17.99",
+        "likes": 4500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a15",
+        "name": "Palak Paneer",
+        "picture": "https://i.ibb.co/grbqS9g/palak-paneer-recipe.jpg",
+        "price": "$12.99",
+        "likes": 4000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a16",
+        "name": "Gajar Ka Halwa",
+        "picture": "https://i.ibb.co/2kcqqfR/Gajar-Ka-Halwa.jpg",
+        "price": "$9.99",
+        "likes": 3500
+      }
+    ]
+  },
+  {
+    "name": "Ranveer Brar",
+    "picture": "https://i.ibb.co/KjngXxY/images.jpg",
+    "dishes": [
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a17",
+        "name": "Butter Chicken",
+        "picture": "https://i.ibb.co/3YN0H6Z/Butter-Chicken.jpg",
+        "price": "$14.99",
+        "likes": 4000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a18",
+        "name": "Gulab Jamun",
+        "picture": "https://i.ibb.co/WfqZrGz/Gulab-Jamun.jpg",
+        "price": "$16.99",
+        "likes": 3500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a19",
+        "name": "Dum Biryani",
+        "picture": "https://i.ibb.co/7C1MS2K/Dum-Biryani.jpg",
+        "price": "$18.99",
+        "likes": 4500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a20",
+        "name": "Aloo Paratha",
+        "picture": "https://i.ibb.co/XkBrFYL/Aloo-Paratha.jpg",
+        "price": "$6.99",
+        "likes": 3000
+      }
+    ]
+  },
+  {
+    "name": "Nita Mehta",
+    "picture": "https://i.ibb.co/qyqT4D4/madhur1.jpg",
+    "dishes": [
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a21",
+        "name": "Palak Paneer",
+        "picture": "https://i.ibb.co/grbqS9g/palak-paneer-recipe.jpg",
+        "price": "$12.99",
+        "likes": 4000
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a22",
+        "name": "Aloo Paratha",
+        "picture": "https://i.ibb.co/XkBrFYL/Aloo-Paratha.jpg",
+        "price": "$8.99",
+        "likes": 3500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a23",
+        "name": "Dal Makhani",
+        "picture": "https://i.ibb.co/26pn88V/Dal-Makhani.jpg",
+        "price": "$13.99",
+        "likes": 4500
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab1a24",
+        "name": "Gajar Ka Halwa",
+        "picture": "https://i.ibb.co/2kcqqfR/Gajar-Ka-Halwa.jpg",
+        "price": "$7.99",
+        "likes": 3000
+      }
+    ]
+  }
+]
